@@ -20,6 +20,9 @@ body{
 
 .container{
     padding: 2.8125rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
 .grid{
