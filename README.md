@@ -1,5 +1,5 @@
 # grid_gallery
 
-### DEMO
+#### DEMO
 
-### https://jenyllerasmine-grid-gallery.pages.dev/
+#### https://jenyllerasmine-grid-gallery.pages.dev/
